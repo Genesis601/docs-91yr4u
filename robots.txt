@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-c8uhzt.academyhighschool.net/sitemap.xml
